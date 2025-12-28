@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+python-dotenv
+requests
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
